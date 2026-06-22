@@ -6,6 +6,9 @@ a simple web browser in python tkinter
 - beautiful soup to get an html parser from the http result
 - parse the html tags and add tkinter components to window
 
+![tkbrowser screenshot](example.png)
+
+
 ## getting started
 ```bash
 python -m venv .venv
