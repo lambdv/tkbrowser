@@ -1,4 +1,4 @@
-# browser
+# tkbrowser
 a simple web browser in python tkinter
 
 - tkinter gui library 
